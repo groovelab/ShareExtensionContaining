@@ -1,7 +1,7 @@
 ShareExtensionContaining
 ========================
 
-iOS8 share extension demo
+iOS 8 share extension demo
 
 post mixi voice by using mixi Graph API
 
